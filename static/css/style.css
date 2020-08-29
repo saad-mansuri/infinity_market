@@ -1,0 +1,159 @@
+body{
+    background-color: #030E2f;
+}
+
+section{
+    margin: 3rem 0 3rem;
+}
+
+/* Navbar Section */
+.custom-nav{
+    color: white;
+}
+nav.custom-nav li a:hover{
+    color: #ffff00;
+    /* opacity: 0.4; */
+}
+/* Navbar Section END */
+
+/* Second Section */
+h1{
+    /* font-size: xx-large !important; */
+    color: #ffff00;
+    text-align: center;
+    padding: 0 0 20px 0;
+    /* padding-bottom: 5rem; */
+}
+p{
+    color: #ffffff;
+}
+.extra-pad{
+    padding-top: 80px;
+}
+.font-size{
+    font-size: 60px;
+    font-weight: 800;
+}
+.social-icon{
+    margin-top: 30px;
+}
+.fa {
+    padding: 10px 10px;
+    font-size: 15px;
+    width: 35px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  } 
+.fa:hover {
+  opacity: 0.5;
+} 
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.fa-whatsapp{
+    background: #4FCE5D;
+    color: white;
+}
+.fa-twitter{
+    background: #00acee;
+    color: white;
+}
+.fa-instagram{
+    background: #e95950;
+    color: white;
+}
+.home-img{
+    height: 400px;
+    width: 100%;
+}
+/* Second Section END */
+
+/* Service Section */
+.service-img{
+    height: 200px;
+    width: 200px;
+}
+.img-center{
+    text-align: center;
+}
+h1.our-ser{
+    text-align: center;
+    /* margin-top: 10px; */
+    padding-bottom: 30px;
+    text-transform: uppercase;
+}
+h2{
+    color: #ffffff;
+    margin-top: 20px;
+}
+/* Service Section END */
+
+/* Process Sec */
+.page3-img{
+    height: 250px;
+    width: 100%;
+}
+.page3-sec{
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+}
+/* Process Sec END*/
+
+.contact-img{
+    height: 500px;
+    width: 100%;
+}
+.contact-us{
+    margin-top: 80px;
+    /* text-align: center; */
+    justify-content: center;
+}
+
+.btn-outline{
+    color: #000000;
+    border: solid;
+    background-color: #ffff00;
+    /* padding-left: -20px; */
+}
+
+.form-control-cust{
+    border-radius: 10px;
+    height: 40px;
+    width: 300px;
+}
+
+.contact-us p{
+    font-size: 30px;
+}
+
+.btn-radius{
+    border-radius: 10px;
+    /* justify-content: center; */
+}
+.contact-form{
+    text-align: center;
+    justify-content: center;
+}
+/* .form-inline{
+    justify-content: center;
+} */
+form button{
+    /* margin-left: -30px; */
+    height: 40px;
+    width: 200px;
+    margin: 15px;
+}
+
+form input{
+    height: 100px;
+    width: 100px; 
+    margin: 15px;
+    /* justify-content: right; */
+}
+
+.row{
+    justify-content: center;
+}
